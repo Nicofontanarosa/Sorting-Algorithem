@@ -21,5 +21,5 @@ int key, j;
 }
 ```
 
-![image](C:\Computer_Science\Documentation\Algorithms\Sorting_Algorithms\Insertion_Sort\res\Insertion-Sort-Animation-2.gif)
+![image](https://github.com/KeiyuKensei/Sorting-Algorithem/blob/main/res/Sorting_Algorithms/Selection_Sort/res/Selection-Sort-Animation-1.gif)
 ### Time complexity = O(n^2)
