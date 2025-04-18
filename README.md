@@ -5,8 +5,6 @@ Every Sorting Algorithms.
 # Installation
 ## Prerequisites
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nicofontanarosa&show_icons=true&theme=radical" align='right'/>
-
 In order to compile this project you will need to:
 -   [VS code](https://code.visualstudio.com) configured for [c++](https://code.visualstudio.com/docs/languages/cpp)
 
